@@ -1,4 +1,4 @@
-# Deep_Learning_Project
+# Deep_Learning_Projects
 # Data_Science
 ### 🤖 Deep_Learning
 1) Implemented **Neural Network Regression** models to predict continuous outcomes using TensorFlow and Keras, focusing on feature scaling, model tuning, and performance optimization.
